@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## IMEI Check Digit Generator - Enter 14 digit IMEI number without check digit
+## IMEI Check Digit Generator [Luhn algorithm] - Enter 14 digit IMEI number without check digit
 [Live Preview](https://imeicheckdigitcalculator.netlify.app/)
 
 
